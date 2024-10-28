@@ -1,6 +1,6 @@
 # mobileapps
 
-A new Flutter project.
+Tugas Praktikum Flutter Muhammad Wildan Khalilurrahman 714220009
 
 ## Getting Started
 
